@@ -28,13 +28,13 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,c++" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,cpp" alt="Languages" />
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs" alt="Frameworks" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,firebase,vercel" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools" />
 
 </div>
 
@@ -87,9 +87,10 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
