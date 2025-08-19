@@ -3,7 +3,7 @@
 # 👋 Hey there! I'm Patrick
 ### Full-Stack Developer | Code Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Developer;Always+learning+new+things;Building+awesome+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Welcome+Traveler!;Not+a+Full-Stack+Developer;Always+learning+new+things;Building+awesome+projects" alt="Typing SVG" />
 
 </div>
 
