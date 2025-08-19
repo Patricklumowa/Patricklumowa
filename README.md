@@ -13,8 +13,6 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **exciting web applications**
-- 🌱 I'm constantly learning and exploring **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, React, Python, and C++**
 - ⚡ Fun fact: **I love anime and coding late at night!**
