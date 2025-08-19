@@ -16,7 +16,7 @@
 - 🔭 I'm currently working on **exciting web applications**
 - 🌱 I'm constantly learning and exploring **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, React, Python, and C#**
+- 💬 Ask me about **JavaScript, React, Python, and C++**
 - ⚡ Fun fact: **I love anime and coding late at night!**
 
 <br clear="right"/>
@@ -28,16 +28,13 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,c++" alt="Languages" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs" alt="Frameworks" />
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,firebase,vercel" alt="Tools" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" alt="Databases" />
 
 </div>
 
