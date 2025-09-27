@@ -11,7 +11,9 @@
 
 <img align="right" height="180" src="https://github.com/Patricklumowa/Patricklumowa/blob/main/kaguya-shinomiya-kaguya-shinomiya-dance.gif" alt="Animated character" />
 
-## 🚀 About Me
+<div>
+  ## 🚀 About Me
+</div>
 
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, React, Python, and C++**
