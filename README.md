@@ -31,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,cpp" alt="Languages" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite,nextjs" alt="Frameworks" />
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" alt="Tools" />
