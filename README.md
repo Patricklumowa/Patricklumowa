@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs" alt="Frameworks" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" alt="Tools" />
 
 </div>
 
