@@ -79,7 +79,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Pac 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/pacman-contribution-graph-dark.svg">
