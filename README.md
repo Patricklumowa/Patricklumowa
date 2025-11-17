@@ -28,7 +28,7 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,cpp" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,cpp,rust" alt="Languages" />
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nodejs,vite,nextjs" alt="Frameworks" />
