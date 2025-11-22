@@ -91,15 +91,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Patricklumowa&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
   
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
