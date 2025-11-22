@@ -42,11 +42,6 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patricklumowa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Patrick's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricklumowa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Patrick's Language Stats" />
-</div
----
 
 ## 🎵 Currently Vibing To
 
