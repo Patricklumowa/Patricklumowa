@@ -19,7 +19,7 @@
 - ⚡ **Anime & Night Coding**
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,cpp,rust,react,nodejs,vite,nextjs,git,github,vscode,vercel,docker&perline=6" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,cpp,rust,react,nodejs,vite,nextjs,git,github,vscode,vercel,docker&perline=7" alt="Stack" />
 
 ### 🤝 Connect
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/patrixiusxd) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Patricklumowa)
@@ -29,7 +29,6 @@
 <td width="45%" valign="top">
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Patricklumowa&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&hide_title=true" width="100%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricklumowa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" width="100%" />
 
