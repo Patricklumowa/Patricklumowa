@@ -9,29 +9,28 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ### 🚀 About Me
-<img align="right" height="80" src="https://github.com/Patricklumowa/Patricklumowa/blob/main/kaguya-shinomiya-kaguya-shinomiya-dance.gif" />
+<img align="right" height="70" src="https://github.com/Patricklumowa/Patricklumowa/blob/main/kaguya-shinomiya-kaguya-shinomiya-dance.gif" />
 
 - 👯 Open to **open source**
 - 💬 Ask about **JS, React, Python**
 - ⚡ **Anime & Night Coding**
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,cpp,rust,react,nodejs,vite,nextjs,git,github,vscode,vercel,docker&perline=6" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,cpp,rust,react,nodejs,vite,nextjs,git,github,vscode,vercel,docker&perline=7" alt="Stack" />
 
 ### 🤝 Connect
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/patrixiusxd) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Patricklumowa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com//) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Patricklumowa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_title=true&height=160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricklumowa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true&height=160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Patricklumowa&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&hide_title=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricklumowa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" width="100%" />
 
 </div>
 </td>
@@ -40,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Patricklumowa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" height="100" />
+<img src="https://github-profile-trophy.vercel.app/?username=Patricklumowa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" height="90" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/pacman-contribution-graph-dark.svg">
