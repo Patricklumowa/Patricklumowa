@@ -1,105 +1,51 @@
 <div align="center">
-  
+
 # 👋 Hey there! I'm Patrick
 ### ~Full-Stack Developer~ | Code Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Welcome+Traveler!;Not+a+Full-Stack+Developer;Always+learning+new+things;Building+awesome+projects" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Welcome+Traveler!;Not+a+Full-Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img align="right" height="180" src="https://github.com/Patricklumowa/Patricklumowa/blob/main/kaguya-shinomiya-kaguya-shinomiya-dance.gif" alt="Animated character" />
+### 🚀 About Me
+<img align="right" height="80" src="https://github.com/Patricklumowa/Patricklumowa/blob/main/kaguya-shinomiya-kaguya-shinomiya-dance.gif" />
 
-<div>
-  ## 🚀 About Me
-</div>
+- 👯 Open to **open source**
+- 💬 Ask about **JS, React, Python**
+- ⚡ **Anime & Night Coding**
 
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, React, Python, and C++**
-- ⚡ Fun fact: **I love anime and coding late at night!**
+### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,rust,react,nextjs,docker,git&perline=6" alt="Stack" />
 
-<br clear="right"/>
+### 🤝 Connect
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/patrixiusxd) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Patricklumowa)
 
----
-
-## 🛠️ Tech Stack & Tools
+</td>
+<td width="50%" valign="top">
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,cpp,rust" alt="Languages" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,vite,nextjs" alt="Frameworks" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" alt="Tools" />
+<img src="https://github-readme-stats.vercel.app/api?username=Patricklumowa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_title=true&height=150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricklumowa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true&height=150" />
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patricklumowa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Patrick's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricklumowa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Patrick's Language Stats" />
-</div
----
 
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <a href="https://open.spotify.com/user/mvdaa4s51fmj0us2cb50ce7v1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mvdaa4s51fmj0us2cb50ce7v1&count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com//)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/patrixiusxd)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Patricklumowa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Patricklumowa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## Pac 
+<img src="https://github-profile-trophy.vercel.app/?username=Patricklumowa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" height="100" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man" src="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Patricklumowa&color=blueviolet&style=flat-square&label=Profile+Views)
-
----
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+![](https://komarev.com/ghpvc/?username=Patricklumowa&color=blueviolet&style=flat-square&label=Profile+Views) • **"Code is like humor. When you have to explain it, it's bad."**
 
 </div>
