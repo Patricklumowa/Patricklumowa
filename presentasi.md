@@ -4,17 +4,17 @@
 
 ---
 
-## PEMBUKAAN (Presenter 1)
+## PEMBUKAAN (Jen)
 
 **[SCENE: Semua presenter di frame]**
 
-**Presenter 1:**
+**Jen:**
 > "Halo semuanya! Selamat datang di presentasi project kami yang berjudul **Compily - Online Rust Compiler**."
 >
-> "Perkenalkan, saya [Nama] dan bersama saya ada:"
-> - "[Nama Presenter 2]"
-> - "[Nama Presenter 3]"  
-> - "[Nama Presenter 4]"
+> "Perkenalkan, saya [Jen] dan bersama saya ada:"
+> - "[Pat]"
+> - "[Kezia]"  
+> - "[Eko]"
 >
 > "Hari ini kami akan mempresentasikan aplikasi web yang memungkinkan pengguna untuk menulis, mengkompilasi, dan menjalankan kode Rust langsung di browser."
 >
@@ -22,11 +22,11 @@
 
 ---
 
-## BAGIAN 1: OVERVIEW ARSITEKTUR (Presenter 1)
+## BAGIAN 1: OVERVIEW ARSITEKTUR (Pat)
 
 **[SCENE: Tampilkan diagram arsitektur atau screen share struktur folder]**
 
-**Presenter 1:**
+**Pat:**
 > "Sebelum masuk ke detail, mari kita lihat struktur project kami."
 >
 > "Project ini terbagi menjadi dua bagian utama:"
@@ -45,11 +45,11 @@
 
 ---
 
-## BAGIAN 2: BACKEND - DATABASE & STATE (Presenter 2)
+## BAGIAN 2: BACKEND - DATABASE & STATE (Pat)
 
 **[SCENE: Buka file `backend/src/db.rs`]**
 
-**Presenter 2:**
+**Pat:**
 > "Sekarang saya akan menjelaskan bagian backend, dimulai dari database."
 >
 > "Buka file `db.rs`. Di sini kita mendefinisikan **AppState** yang berisi koneksi database pool."
@@ -95,11 +95,11 @@ CREATE TABLE IF NOT EXISTS snippets (
 
 ---
 
-## BAGIAN 3: BACKEND - AUTENTIKASI (Presenter 2)
+## BAGIAN 3: BACKEND - AUTENTIKASI (Pat)
 
 **[SCENE: Buka file `backend/src/auth.rs`]**
 
-**Presenter 2:**
+**Pat:**
 > "Selanjutnya, file `auth.rs` menangani register dan login."
 
 📍 **`backend/src/auth.rs` - Line 20**
@@ -147,11 +147,11 @@ impl<S> FromRequestParts<S> for Claims {
 
 ---
 
-## BAGIAN 4: BACKEND - SNIPPET MANAGEMENT (Presenter 3)
+## BAGIAN 4: BACKEND - SNIPPET MANAGEMENT (Eko)
 
 **[SCENE: Buka file `backend/src/snippets.rs`]**
 
-**Presenter 3:**
+**Eko:**
 > "Saya akan menjelaskan manajemen snippet. File ini mengimplementasikan full CRUD operations."
 
 📍 **`backend/src/snippets.rs` - Line 56**
@@ -187,11 +187,11 @@ sqlx::query_as::<_, Snippet>("SELECT * FROM snippets WHERE id = ? AND user_id = 
 
 ---
 
-## BAGIAN 5: BACKEND - COMPILER ENGINE (Presenter 3)
+## BAGIAN 5: BACKEND - COMPILER ENGINE (Eko)
 
 **[SCENE: Buka file `backend/src/main.rs`]**
 
-**Presenter 3:**
+**Eko:**
 > "Ini adalah inti dari aplikasi kami - **compiler engine** menggunakan WebSocket."
 
 📍 **`backend/src/main.rs` - Line 63**
@@ -265,11 +265,11 @@ let _ = fs::remove_file(&exe_name).await;
 
 ---
 
-## BAGIAN 6: FRONTEND - STRUKTUR & ROUTING (Presenter 4)
+## BAGIAN 6: FRONTEND - STRUKTUR & ROUTING (Jen)
 
 **[SCENE: Buka file `frontend/src/App.tsx`]**
 
-**Presenter 4:**
+**Jen:**
 > "Sekarang kita beralih ke frontend. Saya akan menjelaskan struktur aplikasi React kami."
 
 📍 **`frontend/src/App.tsx` - Line 22**
@@ -312,11 +312,11 @@ const ProtectedRoute: React.FC<{ children: React.ReactNode }> = ({ children }) =
 
 ---
 
-## BAGIAN 7: FRONTEND - AUTH CONTEXT (Presenter 4)
+## BAGIAN 7: FRONTEND - AUTH CONTEXT (Jen)
 
 **[SCENE: Buka file `frontend/src/context/AuthContext.tsx`]**
 
-**Presenter 4:**
+**Jen:**
 > "Untuk state management autentikasi, kami menggunakan React Context."
 
 📍 **`frontend/src/context/AuthContext.tsx` - Line 20**
@@ -348,11 +348,11 @@ const login = (newToken: string, username: string) => {
 
 ---
 
-## BAGIAN 8: FRONTEND - CODE EDITOR (Presenter 1)
+## BAGIAN 8: FRONTEND - CODE EDITOR (Kezia)
 
 **[SCENE: Buka file `frontend/src/pages/Editor.tsx`]**
 
-**Presenter 1:**
+**Kezia:**
 > "Halaman editor adalah fitur utama aplikasi kami."
 
 📍 **`frontend/src/pages/Editor.tsx` - Line 213**
@@ -419,11 +419,11 @@ const handleSave = async () => {
 
 ---
 
-## BAGIAN 9: FRONTEND - DASHBOARD (Presenter 2)
+## BAGIAN 9: FRONTEND - DASHBOARD (Kezia)
 
 **[SCENE: Buka file `frontend/src/pages/Dashboard.tsx`]**
 
-**Presenter 2:**
+**Kezia:**
 > "Dashboard menampilkan semua snippet yang dimiliki user."
 
 📍 **`frontend/src/pages/Dashboard.tsx` - Line 23**
@@ -456,7 +456,7 @@ const fetchSnippets = async () => {
 
 **[SCENE: Tampilkan aplikasi running di browser]**
 
-**Presenter 3:**
+**Jen:**
 > "Sekarang mari kita lihat demo langsung aplikasi kami."
 
 **[Demo flow:]**
@@ -471,11 +471,11 @@ const fetchSnippets = async () => {
 
 ---
 
-## PENUTUP (Presenter 1)
+## PENUTUP (Jen)
 
 **[SCENE: Semua presenter di frame]**
 
-**Presenter 1:**
+**Jen:**
 > "Itulah presentasi project Compily - Online Rust Compiler dari kami."
 >
 > "Untuk merangkum, project ini mendemonstrasikan:"
@@ -488,21 +488,8 @@ const fetchSnippets = async () => {
 
 ---
 
-## PEMBAGIAN TUGAS
 
-| Presenter | Bagian |
-|-----------|--------|
-| **Presenter 1** | Pembukaan, Overview Arsitektur, Code Editor, Penutup |
-| **Presenter 2** | Database & State, Autentikasi, Dashboard |
-| **Presenter 3** | Snippet Management, Compiler Engine, Demo |
-| **Presenter 4** | Frontend Struktur & Routing, Auth Context |
 
 ---
 
-## TIPS PRESENTASI
 
-1. **Persiapkan environment** - Pastikan backend dan frontend sudah running sebelum demo
-2. **Buat akun test** - Siapkan akun untuk demo agar tidak perlu register on the spot
-3. **Siapkan kode contoh** - Beberapa snippet Rust yang menarik untuk demo
-4. **Backup plan** - Jika demo gagal, siapkan video recording sebagai backup
-5. **Practice** - Latihan beberapa kali agar transisi antar presenter smooth
