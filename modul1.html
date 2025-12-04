@@ -1,0 +1,98 @@
+<!-- 
+  BAGIAN 1: STRUKTUR DASAR HTML
+  Setiap dokumen HTML harus diawali dengan deklarasi DOCTYPE.
+  Tag <html> adalah root dari dokumen HTML.
+-->
+<!DOCTYPE html>
+<html>
+  <!-- 
+    BAGIAN 2: INTERNAL CSS
+    Tag <style> digunakan untuk mendefinisikan style (tampilan) secara global untuk halaman ini.
+    Di sini kita mengatur background body, font family, dan ukuran font default.
+  -->
+  <style>
+    body {
+      background-color: powderblue;
+    }
+    h1 {
+      font-family: Courier;
+      font-size: 300%;
+    }
+    p {
+      font-family: courier;
+    }
+  </style>
+  <body>
+    <!-- 
+      BAGIAN 3: ELEMEN DASAR
+      Contoh penggunaan tag Heading 1 (<h1>) dan Paragraph (<p>) standar.
+      Style elemen ini mengikuti aturan yang sudah didefinisikan di bagian <style> di atas.
+    -->
+    <h1>This is a heading</h1>
+    <p>This is a paragraph.</p>
+
+    <!-- 
+      BAGIAN 4: INLINE STYLE - UKURAN FONT
+      Kita bisa menimpa style global dengan menggunakan atribut 'style' langsung pada elemen.
+      Di sini kita mengubah ukuran font menjadi 160%.
+    -->
+    <p style="font-size: 160%;">This is a paragraph.</p>
+
+    <!-- 
+      BAGIAN 5: INLINE STYLE - PERATAAN TEKS
+      Menggunakan properti 'text-align' untuk membuat teks berada di tengah (center).
+    -->
+    <h1 style="text-align: center;">Centered Heading</h1>
+    <p style="text-align: center;">Centered paragraph.</p>
+
+    <!-- 
+      BAGIAN 6: INLINE STYLE - WARNA TEKS
+      Menggunakan properti 'color' untuk mengubah warna teks.
+      Baris pertama menggunakan warna default (hitam), baris berikutnya merah dan biru.
+    -->
+    <p>I am normal</p>
+    <p style="color: red;">saya berwarna red</p>
+    <p style="color: blue;">I saya berwarna blue</p>
+
+    <!-- 
+      BAGIAN 7: INLINE STYLE - UKURAN PIXEL
+      Selain persentase, ukuran font juga bisa diatur menggunakan satuan pixel (px).
+    -->
+    <p style="font-size: 36px;"> saya berukuran big</p>
+
+    <!-- 
+      BAGIAN 8: BLOCKQUOTE
+      Tag <blockquote> digunakan untuk kutipan panjang.
+      Browser secara default akan memberikan margin (indentasi) di kiri dan kanan.
+    -->
+    <p>Browsers usually indent blockquote elements.</p>
+    <blockquote>
+      For 50 years, WWF has been protecting the future of nature.
+      The world's leading conservation organization,
+      WWF works in 100 countries and is supported by
+      1.2 million members in the United States and
+      close to 5 million globally.
+    </blockquote>
+
+    <!-- 
+      BAGIAN 9: BACKGROUND COLOR
+      Mengubah warna latar belakang elemen spesifik (bukan seluruh halaman).
+      Kita juga bisa menggabungkan beberapa style sekaligus (lihat contoh warna biru).
+    -->
+    <h2 style="background-color: red;">
+      Background-color set by using red
+    </h2>
+    <h2 style="background-color: orange;">
+      Background-color set by using orange
+    </h2>
+    <h2 style="background-color: yellow;">
+      Background-color set by using yellow
+    </h2>
+    <h2 style="background-color: blue; color: white;">
+      Background-color set by using blue
+    </h2>
+    <h2 style="background-color: cyan;">
+      Background-color set by using cyan
+    </h2>
+  </body>
+</html>
