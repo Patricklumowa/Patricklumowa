@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey there! I'm Patrick
-### ~Full-Stack Developer~ | Code Enthusiast | Problem Solver
+### ~Full-Stack Developer~ | Code Enthusiast | Problem Solver | Ultra Nerd
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Welcome+Traveler!;Not+a+Full-Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 
