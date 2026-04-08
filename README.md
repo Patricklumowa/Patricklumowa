@@ -12,7 +12,7 @@
 <td width="55%" valign="center">
 
 ### 🚀 About Me
-<img align="right" height="70" src="https://github.com/Patricklumowa/Patricklumowa/blob/main/kaguya-shinomiya-kaguya-shinomiya-dance.gif" />
+<img align="center" height="70" src="https://github.com/Patricklumowa/Patricklumowa/blob/main/kaguya-shinomiya-kaguya-shinomiya-dance.gif" />
 
 - 👯 Open to **open source**
 - 💬 Ask about **JS, React, Python**
