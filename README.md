@@ -12,7 +12,7 @@
 <td width="55%" valign="center">
 
 ### 🚀 About Me
-<img align="center" height="70" src="https://github.com/Patricklumowa/Patricklumowa/blob/main/kaguya-shinomiya-kaguya-shinomiya-dance.gif" />
+<img align="right" height="70" src="https://github.com/Patricklumowa/Patricklumowa/blob/main/kaguya-shinomiya-kaguya-shinomiya-dance.gif" />
 
 - 👯 Open to **open source**
 - 💬 Ask about **JS, React, Python**
@@ -42,7 +42,7 @@
 
 <br/>
 
-### 🎵 Currently Vibing
+### 🎵 Muzieks
 <a href="https://open.spotify.com/user/mvdaa4s51fmj0us2cb50ce7v1">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=mvdaa4s51fmj0us2cb50ce7v1&count=4&unique=true" alt="Spotify recently played" />
 </a>
