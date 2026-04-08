@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="center">
 
 ### 🚀 About Me
 <img align="right" height="70" src="https://github.com/Patricklumowa/Patricklumowa/blob/main/kaguya-shinomiya-kaguya-shinomiya-dance.gif" />
