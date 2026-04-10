@@ -10,9 +10,14 @@
 ---
 
 <div align="center">
-
-Computer Science student and experienced software developer. I am a Rust enthusiast who values native performance and clean architecture, with a history of contributing to major open-source projects. Outside of traditional software development, I actively engineer and maintain complex mods for *Project Zomboid* and *Crusader Kings III*.
-
+  <h3><b>Profile</b></h3>
+  <p>
+    <b>Computer Science student</b> and experienced <b>software developer</b>.<br><br>
+    I am a <b>Rust enthusiast</b> who values native performance and clean architecture,<br>
+    with a history of contributing to major open-source projects.<br><br>
+    Outside of traditional software development, I actively engineer and maintain<br>
+    complex mods for <i>Project Zomboid</i> and <i>Crusader Kings III</i>.
+  </p>
 </div>
 
 ---
@@ -37,7 +42,7 @@ Computer Science student and experienced software developer. I am a Rust enthusi
 <div align="center">
 
 ### Tech Stack
-<img src="https://skillicons.dev/icons?i=rust,cpp,java,lua,python,ts,js,postgresql,sqlite,git,github,docker,linux&perline=10" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,cpp,rust,lua,java,react,postgresql,sqlite,nodejs,vite,nextjs,git,github,vscode,vercel,docker&perline=10" alt="Tech Stack" />
 
 <br/><br/>
 
