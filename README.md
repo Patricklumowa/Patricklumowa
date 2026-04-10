@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there! I'm Patrick
+# Hey there! I'm Patrick
 ### ~Full-Stack Developer~ | Code Enthusiast | Problem Solver | Ultra Nerd
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Welcome+Traveler!;Not+a+Full-Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
@@ -8,10 +8,10 @@
 </div>
 
 <table>
-<tr>
-<td width="55%" valign="center">
+  <tr>
+    <td width="100%" valign="top">
 
-### 🚀 About Me
+### About Me
 <img align="right" height="70" src="https://github.com/Patricklumowa/Patricklumowa/blob/main/kaguya-shinomiya-kaguya-shinomiya-dance.gif" />
 
 - 👯 Open to **open source**
@@ -21,14 +21,12 @@
 ### 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,cpp,rust,lua,java,react,postgresql,sqlite,nodejs,vite,nextjs,git,github,vscode,vercel,docker&perline=7" alt="Stack" />
 
-### 🤝 Connect
+### Connect
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/patrixiusxd) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Patricklumowa)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com//) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME_HERE) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-</td>
-</div>
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
