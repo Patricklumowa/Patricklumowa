@@ -44,12 +44,6 @@
 ### Tech Stack
 <img src="https://skillicons.dev/icons?i=rust,cpp,java,lua,python,ts,js,postgresql,sqlite,nodejs,react,vite,nextjs,html,css,git,github,docker,linux,vscode,vercel&perline=7" alt="Tech Stack" />
 
-<br/><br/>
-
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Patricklumowa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patricklumowa/Patricklumowa/output/pacman-contribution-graph-dark.svg">
