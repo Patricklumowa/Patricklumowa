@@ -15,8 +15,9 @@
     <b>Computer Science student</b> and experienced <b>software developer</b>.<br><br>
     I am a <b>Rust enthusiast</b> who values native performance and clean architecture,<br>
     with a history of contributing to major open-source projects.<br><br>
-    Outside of traditional software development, I actively engineer and maintain<br>
-    complex mods for <i>Project Zomboid</i> and <i>Crusader Kings III</i>.
+    Beyond traditional development, I develops some mods for <i>Project Zomboid</i><br>
+    and <i>Crusader Kings III</i>, and build <b>automated browser extensions</b><br>
+    (<i>Pat-Placer</i> & <i>WPlace-AutoBOT</i>).
   </h4>
 </div>
 
