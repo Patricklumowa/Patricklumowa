@@ -30,7 +30,7 @@
 <br/><br/>
 
 ### Tech Stack
-<img src="https://skillicons.dev/icons?i=rust,cpp,c#,java,lua,python,ts,js,postgresql,sqlite,nodejs,react,vite,nextjs,html,css,git,github,docker,vscode,vercel&perline=7" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=rust,cpp,csharp,java,lua,python,ts,js,postgresql,sqlite,nodejs,react,vite,nextjs,html,css,git,github,docker,vscode,vercel&perline=7" alt="Tech Stack" />
 
 <br/><br/>
 
