@@ -1,7 +1,12 @@
 <div align="center">
 
 # Patrick Lumowa
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Software+Developer;Rust+%26+C%2B%2B+Enthusiast;Game+Modding+Specialist" alt="Typing SVG" /></a>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=61570975" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61570975&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @zakirkun" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61570975&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 <br/><br/>
 
