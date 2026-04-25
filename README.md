@@ -25,7 +25,7 @@
 <br/><br/>
 
 ### Tech Stack
-<img src="https://skillicons.dev/icons?i=rust,cpp,cs,java,lua,python,ts,js,postgresql,sqlite,nodejs,react,vite,nextjs,html,css,git,github,docker,vscode,vercel&perline=7" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,rust,python,ts,js,postgresql,sqlite,nodejs,react,vite,nextjs,html,css,git,github,docker,vscode,vercel&perline=7" alt="Tech Stack" />
 
 <br/><br/>
 
