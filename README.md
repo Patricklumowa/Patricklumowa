@@ -24,8 +24,12 @@
 
 <br/><br/>
 
+<div align="center">
+
 ### Tech Stack
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,rust,python,ts,js,postgresql,sqlite,nodejs,react,vite,nextjs,html,css,git,github,docker,vscode,vercel&perline=7" alt="Tech Stack" />
+
+</div>
 
 <br/><br/>
 
