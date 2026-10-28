@@ -8,8 +8,10 @@
         I am a <b>Rust enthusiast</b> who values native performance and clean architecture,<br>
         with a history of contributing to major open-source projects.<br><br>
         Beyond traditional development, I develop mods for <i>Project Zomboid</i><br>
-        and <i>Crusader Kings III</i>, and build <b>automated browser extensions</b><br>
-        (<i>Pat-Placer</i> & <i>WPlace-AutoBOT</i>).
+        and <i>Crusader Kings III</i>, including
+        <a href="https://steamcommunity.com/workshop/filedetails/?id=3738362476">Project Remnants</a>.<br>
+        I also build <b>automated browser extensions</b><br>
+        (<i>Pat-Placer</i> &amp; <i>WPlace-AutoBOT</i>).
       </h4>
       <br/>
       <a href="https://discord.com/users/patrixiusxd"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -27,6 +29,7 @@
 <div align="center">
 
 ### Tech Stack
+
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,rust,python,ts,js,postgresql,sqlite,nodejs,react,vite,nextjs,html,css,git,github,docker,vscode,vercel&perline=7" alt="Tech Stack" />
 
 </div>
@@ -40,7 +43,7 @@
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=Patricklumowa&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS) 
+![](https://komarev.com/ghpvc/?username=Patricklumowa&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
