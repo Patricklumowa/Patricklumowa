@@ -5,7 +5,7 @@
     <td width="70%" align="center" valign="middle">
       <h4>
         <b>Computer Science student</b> and experienced <b>software developer</b>.<br>
-        I am a <b>Rust enthusiast</b> who values native performance and clean architecture,<br>
+        I am a <b>Game Modder</b> who values Inovation and Creativity,<br>
         with a history of contributing to major open-source projects.<br><br>
         Beyond traditional development, I develop mods for <i>Project Zomboid</i><br>
         and <i>Crusader Kings III</i>, including
